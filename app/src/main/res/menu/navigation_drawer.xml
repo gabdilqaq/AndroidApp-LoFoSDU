@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/nav_rate_us"
+        android:icon="@drawable/ic_rate"
+        android:title="Rate Us"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/nav_starred_posts"
+        android:icon="@drawable/ic_starred"
+        android:title="Starred posts"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/nav_about_us"
+        android:icon="@drawable/ic_info"
+        android:title="About Us"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_exit"
+        android:title="Exit"
+        android:enabled="true"/>
+</menu>
